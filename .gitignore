@@ -1,0 +1,8 @@
+*.pt
+runs/
+train/
+test/
+kaggle_test/
+splits/
+*.csv
+.ipynb_checkpoints/
